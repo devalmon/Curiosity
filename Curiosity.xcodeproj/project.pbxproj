@@ -14,6 +14,7 @@
 		8AAE00A124F6E5DC00D89ECE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AAE00A024F6E5DC00D89ECE /* Assets.xcassets */; };
 		8AAE00A424F6E5DC00D89ECE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AAE00A224F6E5DC00D89ECE /* LaunchScreen.storyboard */; };
 		8AAE00A724F6E5DC00D89ECE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AAE00A624F6E5DC00D89ECE /* main.m */; };
+		8AAE00AF24F6E85200D89ECE /* ABMarsData.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AAE00AD24F6E85200D89ECE /* ABMarsData.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		8AAE00A324F6E5DC00D89ECE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8AAE00A524F6E5DC00D89ECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AAE00A624F6E5DC00D89ECE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8AAE00AD24F6E85200D89ECE /* ABMarsData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ABMarsData.m; path = "../../../../../../Downloads/MarsData Objective-C (quicktype)/ABMarsData.m"; sourceTree = "<group>"; };
+		8AAE00AE24F6E85200D89ECE /* ABMarsData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ABMarsData.h; path = "../../../../../../Downloads/MarsData Objective-C (quicktype)/ABMarsData.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				8AAE009824F6E5D400D89ECE /* SceneDelegate.m */,
 				8AAE009A24F6E5D400D89ECE /* ViewController.h */,
 				8AAE009B24F6E5D400D89ECE /* ViewController.m */,
+				8AAE00AE24F6E85200D89ECE /* ABMarsData.h */,
+				8AAE00AD24F6E85200D89ECE /* ABMarsData.m */,
 				8AAE009D24F6E5D400D89ECE /* Main.storyboard */,
 				8AAE00A024F6E5DC00D89ECE /* Assets.xcassets */,
 				8AAE00A224F6E5DC00D89ECE /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				8AAE009C24F6E5D400D89ECE /* ViewController.m in Sources */,
 				8AAE009624F6E5D400D89ECE /* AppDelegate.m in Sources */,
 				8AAE00A724F6E5DC00D89ECE /* main.m in Sources */,
+				8AAE00AF24F6E85200D89ECE /* ABMarsData.m in Sources */,
 				8AAE009924F6E5D400D89ECE /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
