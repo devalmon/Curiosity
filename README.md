@@ -1,3 +1,6 @@
 # Curiosity
-![Alt text](phone.png?raw=true "iPhone")
-![Alt text](pad.png?raw=true "iPad")
+
+<ul>
+<or><img src="phone.png" width="375" height="812">
+<or><img src="pad.png" width="375" height="812">
+</ul>
